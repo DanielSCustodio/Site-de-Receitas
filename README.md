@@ -228,14 +228,14 @@ Os ingredientes seguem uma ordem lógica onde o nome dele (`strIngredient1`) e a
 ## Instalando Dependências
 
 
-> Frontend
+* Execute na raiz do projeto:
 ```bash
 
 npm install
 ``` 
 ## Executando aplicação
 
-* Para rodar o front-end:
+* Execute na raiz do projeto:
 
   ```
      npm start
