@@ -13,13 +13,13 @@ Utilização  de React Hook useEffect
 Criação de Hooks customizados
 
 Esse projeto foi realizado em grupo com as seguintes pessoas:
-https://github.com/bbeatrizr
-https://github.com/lucassauro
-https://github.com/robert1a7x
-https://github.com/filipe-brochier
+* https://github.com/bbeatrizr
+* https://github.com/lucassauro
+* https://github.com/robert1a7x
+* https://github.com/filipe-brochier
 
 
-## Técnologias usadas
+## Tecnologias usadas
 
 Front-end:
 > Desenvolvido usando: React, Redux, CSS3, HTML5
