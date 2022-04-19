@@ -236,10 +236,10 @@ npm install
 ## Executando aplicação
 
 * Execute na raiz do projeto:
+```bash
 
-  ```
-     npm start
-  ```
+npm start
+``` 
 
 
  
