@@ -5,13 +5,13 @@
 É uma aplicação que faz requisição de duas API's  uma de comidas e outra de bebidas, feita as requisições é implementado diversos filtros, como por categorias, receitas feitas, entre outras diversas funcionalidades como favoritar e compartilhar.
 Utilizando o que há de mais moderno dentro do ecossistema React: Hooks e Context API.
 
-Utilização de Redux para gerenciar estado
-Utilização  da biblioteca React-Redux
-Utilização  de Context API do React para gerenciar estado
-Utilização  de React Hook useState
-Utilização  odeReact Hook useContext
-Utilização  de React Hook useEffect
-Criação de Hooks customizados
+* Utilização de Redux para gerenciar estado
+* Utilização  da biblioteca React-Redux
+* Utilização  de Context API do React para gerenciar estado
+* Utilização  de React Hook useState
+* Utilização  deReact Hook useContext
+* Utilização  de React Hook useEffect
+* Criação de Hooks customizados
 
 Esse projeto foi realizado em grupo com as seguintes pessoas:
 * https://github.com/bbeatrizr
