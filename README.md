@@ -3,7 +3,9 @@
 
 # Contexto
 É uma aplicação que faz requisição de duas API's  uma de comidas e outra de bebidas, feita as requisições é implementado diversos filtros, como por categorias, receitas feitas, entre outras diversas funcionalidades como favoritar e compartilhar.
-Utilizando o que há de mais moderno dentro do ecossistema React: Hooks e Context API.
+Utilizando o que há de mais moderno dentro do ecossistema React: Hooks e Context API.<br>
+
+>Deploy: https://site-de-receitas-v5a4.vercel.app/
 
 * Utilização de Redux para gerenciar estado
 * Utilização  da biblioteca React-Redux
